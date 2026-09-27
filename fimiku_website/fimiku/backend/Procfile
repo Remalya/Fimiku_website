@@ -1,0 +1,1 @@
+web: gunicorn fimiku_core.wsgi:application
